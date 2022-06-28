@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on something fishy
 - 🌱 I’m currently learning Shell scripting
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with remote work in mobile - Android, PHP/MySQL/Bootstrap & WordPress.
+- 🤔 I’m looking for help with remote work in Mobile Applications - Android, PHP/MySQL/Bootstrap & WordPress.
 - 💬 Ask me about software development
 - 📫 How to reach me:  ikmazameti@gmail.com
 - 😄 Pronouns: He/His/Him
