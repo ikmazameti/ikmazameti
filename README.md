@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with remote work in Mobile Applications - Android, PHP/MySQL/Bootstrap & WordPress.
 - 💬 Ask me about software development
-- 📫 How to reach me:  ikmazameti@gmail.com
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I'm a student of life!
 
