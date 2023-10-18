@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
  -->
-- 🔭 I’m currently working on something aquatic.
-- 🌱 I’m currently learning Material Designs.
+- 🔭 I’m currently working on trip app.
+- 🌱 I’m currently learning TDD.
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for remote work in Kotlin Android.
 - 💬 Ask me about software development
