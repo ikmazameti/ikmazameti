@@ -15,5 +15,5 @@ Here are some ideas to get you started:
   
 - ### AWARDS
 - 1. [Google Africa Developer Scholarship 2022](https://adscerts.com/scholar/1A9256FE537EFE6)
-  2. [Tech Stars Communinty](https://drive.google.com/file/d/10OlgVckXFg-VulcciWzjgSafoK-GEC4e/view?usp=drive_link)
+  2. [Tech Stars Communinty](https://drive.google.com/drive/u/0/my-drive)
 
